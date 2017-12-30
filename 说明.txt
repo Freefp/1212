@@ -6,6 +6,8 @@
 	<artifactId>b-a-base</artifactId>
 	<version>201507</version>
 	<relativePath>../b-a-base</relativePath>
+	
+	
 </parent>
 
 
